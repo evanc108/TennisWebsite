@@ -7,7 +7,7 @@ const Intro = () => {
     <div  className="i">
       <div className="i-left">
         <div className="i-left-wrapper">
-            <h2 className="i-intro">Hello, my name is Evan</h2>
+            <h2 className="i-intro">Evan Chang</h2>
             <h1 className="i-name">Private Tennis Lessons</h1>
             <div className="i-title">
                 <div className="i-title-wrapper">
@@ -15,7 +15,7 @@ const Intro = () => {
                     <div className="i-title-item">Play on a court near you</div>
                     <div className="i-title-item">Develop your game</div>
                     <div className="i-title-item">Learn technique and strategy</div>
-                    <div className="i-title-item">Have a good time</div>
+                    <div className="i-title-item">Have fun!</div>
                 </div>
             </div>
             <p className="i-desc"> Get in contact with me for private tennis lessons!

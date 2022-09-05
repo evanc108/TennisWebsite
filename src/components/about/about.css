@@ -19,19 +19,19 @@
   
   .a-card.bg {
     position: absolute;
-    top: 1000px;
-    left: 50px;
     background-color: #333;
+    margin: auto 30px;
   }
   
   .a-card {
     width: 45%;
     height: 70vh;
-    top: 1070px;
-    left: 120px;
     border-radius: 30px;
     position: absolute;
+    float: left;
     overflow: hidden;
+    margin: auto 90px;
+    margin-top: 90px;
   }
   
   .a-img {
@@ -41,6 +41,7 @@
   }
 
   .a-title {
+    margin: 40px;
     font-weight: 700;
     font-size:large;
   }
